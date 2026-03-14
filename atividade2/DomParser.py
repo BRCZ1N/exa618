@@ -1,11 +1,16 @@
 from xml.dom.minidom import parse
+import time
 
-mapDocument = parse('./atividade2/map.xml')
+beginTime = time.perf_counter()
+mapDocument = parse('map.xml')
 #Formato CSV
 print("Starting DOM Parser...")
 isAmenity = False
 currentName = ""
 currentType = ""
+file = open("estabelecimentosDOM.csv", "w", encoding="utf-8")
+file.write("lat,lon,tipo,nome\n")
+cont = 1
 for currentNode in mapDocument.getElementsByTagName("node"):
     
 	tagNode = currentNode.getElementsByTagName("tag")
@@ -19,23 +24,21 @@ for currentNode in mapDocument.getElementsByTagName("node"):
       
 			currentType = tag.getAttribute("v")
 			isAmenity = True
-   
-		if(isAmenity):
-      
-			if tag.getAttribute("k") == "name":
+
+		if isAmenity and tag.getAttribute("k") == "name":
        
-				currentName = tag.getAttribute("v")
+				currentName = tag.getAttribute("v") 
     
-			elif tag.getAttribute("k") == "type":
-       
-				currentType = tag.getAttribute("v")
-				print("type:", currentType)
-    
-	if(isAmenity):
+	if(currentType and currentName):
      
 		print("Latitude:", currentNode.getAttribute("lat"))	
 		print("Longitude:", currentNode.getAttribute("lon"))
 		print("Nome:", currentName)
 		print("Tipo:", currentType)
+		file.write(f"{currentNode.getAttribute("lat")},{currentNode.getAttribute("lon")},{currentName},{currentType}\n")
+endTime = time.perf_counter()
+timeCount = endTime - beginTime
+print("Tempo de execução: {:.2f} s" .format(timeCount))
+
 
      
