@@ -8,8 +8,12 @@ currentName = ""
 currentType = ""
 for currentNode in mapDocument.getElementsByTagName("node"):
 	tagNode = currentNode.getElementsByTagName("tag")
+	isAmenity = False
+	currentName = ""
+	currentType = ""
 	for tag in tagNode:
 		if tag.getAttribute("k") == "amenity":
+			currentType = tag.getAttribute("v")
 			isAmenity = True
 		if(isAmenity):
 			if tag.getAttribute("k") == "name":
@@ -22,6 +26,5 @@ for currentNode in mapDocument.getElementsByTagName("node"):
 		print("Longitude:", currentNode.getAttribute("lon"))
 		print("Nome:", currentName)
 		print("Tipo:", currentType)
-	isAmenity = False
 
      
