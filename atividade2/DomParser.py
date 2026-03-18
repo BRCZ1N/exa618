@@ -10,7 +10,6 @@ currentName = ""
 currentType = ""
 file = open("estabelecimentosDOM.csv", "w", encoding="utf-8")
 file.write("lat,lon,tipo,nome\n")
-cont = 1
 for currentNode in mapDocument.getElementsByTagName("node"):
     
 	tagNode = currentNode.getElementsByTagName("tag")
@@ -35,7 +34,7 @@ for currentNode in mapDocument.getElementsByTagName("node"):
 		print("Longitude:", currentNode.getAttribute("lon"))
 		print("Nome:", currentName)
 		print("Tipo:", currentType)
-		file.write(f"{currentNode.getAttribute("lat")},{currentNode.getAttribute("lon")},{currentName},{currentType}\n")
+		file.write(f"{currentNode.getAttribute("lat")},{currentNode.getAttribute("lon")},{currentType},{currentName}\n")
 endTime = time.perf_counter()
 timeCount = endTime - beginTime
 print("Tempo de execução: {:.2f} s" .format(timeCount))
