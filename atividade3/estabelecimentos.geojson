@@ -1,0 +1,1715 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6336217,
+                    -23.5449999
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6325764,
+                    -23.5483583
+                ]
+            },
+            "properties": {
+                "nome": "Espaço da Cidadania “André Franco Montoro”",
+                "tipo": "public_council"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6376668,
+                    -23.550146
+                ]
+            },
+            "properties": {
+                "nome": "Centro Franciscano de Reinserção Social",
+                "tipo": "social_facility"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6342829,
+                    -23.5502535
+                ]
+            },
+            "properties": {
+                "nome": "Droga Raia",
+                "tipo": "pharmacy"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.633794,
+                    -23.5454902
+                ]
+            },
+            "properties": {
+                "nome": "Banco Santander",
+                "tipo": "bank"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6346882,
+                    -23.545244
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6336427,
+                    -23.5459785
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6340033,
+                    -23.5489703
+                ]
+            },
+            "properties": {
+                "nome": "McDonald's",
+                "tipo": "fast_food"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6364146,
+                    -23.5465051
+                ]
+            },
+            "properties": {
+                "nome": "Banco Bradesco Prime",
+                "tipo": "bank"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6344348,
+                    -23.545555
+                ]
+            },
+            "properties": {
+                "nome": "Espaço Cultural BM&F Bovespa",
+                "tipo": "arts_centre"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6372612,
+                    -23.5454691
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.635862,
+                    -23.5446837
+                ]
+            },
+            "properties": {
+                "nome": "Bar Guanabara",
+                "tipo": "restaurant"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6333853,
+                    -23.5463947
+                ]
+            },
+            "properties": {
+                "nome": "Instituto Geográfico e Cartográfico do Estado de São Paulo;Nova Boa Vista",
+                "tipo": "taxi"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6335151,
+                    -23.5466432
+                ]
+            },
+            "properties": {
+                "nome": "O Bonde",
+                "tipo": "restaurant"
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6342513,
+                    -23.5467652
+                ]
+            },
+            "properties": {
+                "nome": "Bovinu's Fast Grill",
+                "tipo": "restaurant"
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6322173,
+                    -23.5487487
+                ]
+            },
+            "properties": {
+                "nome": "Piero Pasta e Café",
+                "tipo": "restaurant"
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6348092,
+                    -23.545427
+                ]
+            },
+            "properties": {
+                "nome": "Relógio de Nichile",
+                "tipo": "clock"
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6356269,
+                    -23.5489376
+                ]
+            },
+            "properties": {
+                "nome": "Habib's",
+                "tipo": "fast_food"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6344103,
+                    -23.5447416
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante Bom Gosto",
+                "tipo": "restaurant"
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6344478,
+                    -23.5448093
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6350219,
+                    -23.5451738
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6344707,
+                    -23.5450762
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "bank"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.634398,
+                    -23.544946
+                ]
+            },
+            "properties": {
+                "nome": "Bento Salgados",
+                "tipo": "fast_food"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6343792,
+                    -23.5448436
+                ]
+            },
+            "properties": {
+                "nome": "Viella São Bento",
+                "tipo": "bar"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6343335,
+                    -23.5447634
+                ]
+            },
+            "properties": {
+                "nome": "Patron Restaurante",
+                "tipo": "restaurant"
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6338598,
+                    -23.5449444
+                ]
+            },
+            "properties": {
+                "nome": "Café Bom Gosto",
+                "tipo": "cafe"
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6349851,
+                    -23.5457637
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6355821,
+                    -23.5462283
+                ]
+            },
+            "properties": {
+                "nome": "Western Union",
+                "tipo": "money_transfer"
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6357624,
+                    -23.5457636
+                ]
+            },
+            "properties": {
+                "nome": "Badaró Sucos e Lanches",
+                "tipo": "fast_food"
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6333068,
+                    -23.5469043
+                ]
+            },
+            "properties": {
+                "nome": "Correios",
+                "tipo": "post_office"
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6334806,
+                    -23.5457769
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "bank"
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6323756,
+                    -23.544995
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6346619,
+                    -23.5456891
+                ]
+            },
+            "properties": {
+                "nome": "Salve Jorge",
+                "tipo": "bar"
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6350547,
+                    -23.5460402
+                ]
+            },
+            "properties": {
+                "nome": "Frigideira Grill",
+                "tipo": "restaurant"
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6350438,
+                    -23.5462966
+                ]
+            },
+            "properties": {
+                "nome": "Cafe Bancario",
+                "tipo": "cafe"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.631696,
+                    -23.5492751
+                ]
+            },
+            "properties": {
+                "nome": "Doce Atração",
+                "tipo": "restaurant"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.635289,
+                    -23.5477587
+                ]
+            },
+            "properties": {
+                "nome": "Alcachofra",
+                "tipo": "restaurant"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6353636,
+                    -23.5476628
+                ]
+            },
+            "properties": {
+                "nome": "Casa da Coxinha Vegana",
+                "tipo": "fast_food"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6346871,
+                    -23.5475552
+                ]
+            },
+            "properties": {
+                "nome": "Centro Cultural Banco do Brasil São Paulo",
+                "tipo": "arts_centre"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6373451,
+                    -23.5482356
+                ]
+            },
+            "properties": {
+                "nome": "Panda Express Vegano",
+                "tipo": "restaurant"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6373275,
+                    -23.5482054
+                ]
+            },
+            "properties": {
+                "nome": "Lanches Triângulo",
+                "tipo": "cafe"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6373791,
+                    -23.5482941
+                ]
+            },
+            "properties": {
+                "nome": "Lanchonete Manga e Laranja",
+                "tipo": "cafe"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.633521,
+                    -23.5485833
+                ]
+            },
+            "properties": {
+                "nome": "Casa do Pão de Queijo",
+                "tipo": "cafe"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6329629,
+                    -23.5489822
+                ]
+            },
+            "properties": {
+                "nome": "Flor da Sé",
+                "tipo": "restaurant"
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6329928,
+                    -23.5492178
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.632915,
+                    -23.5497406
+                ]
+            },
+            "properties": {
+                "nome": "Central da Copa",
+                "tipo": "fast_food"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6353014,
+                    -23.5464778
+                ]
+            },
+            "properties": {
+                "nome": "Farmácias Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6353934,
+                    -23.5466403
+                ]
+            },
+            "properties": {
+                "nome": "Ragazzo Express",
+                "tipo": "fast_food"
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6354431,
+                    -23.5467283
+                ]
+            },
+            "properties": {
+                "nome": "Farma Conde",
+                "tipo": "pharmacy"
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6355557,
+                    -23.5469275
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6355786,
+                    -23.5469679
+                ]
+            },
+            "properties": {
+                "nome": "Farmácia Super Popular",
+                "tipo": "pharmacy"
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.635009,
+                    -23.5468793
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6348495,
+                    -23.547592
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6353199,
+                    -23.55037
+                ]
+            },
+            "properties": {
+                "nome": "Ponto de Táxi Quintino",
+                "tipo": "taxi"
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6345936,
+                    -23.5500407
+                ]
+            },
+            "properties": {
+                "nome": "Banco Santander",
+                "tipo": "bank"
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6337073,
+                    -23.5486986
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6336515,
+                    -23.5488781
+                ]
+            },
+            "properties": {
+                "nome": "Orange Sucos & Café",
+                "tipo": "cafe"
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6344149,
+                    -23.5487595
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6345118,
+                    -23.5484309
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante e Leiteria Regina",
+                "tipo": "restaurant"
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6354693,
+                    -23.5482608
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6350863,
+                    -23.5477304
+                ]
+            },
+            "properties": {
+                "nome": "Banco Santander",
+                "tipo": "bank"
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6338662,
+                    -23.5493745
+                ]
+            },
+            "properties": {
+                "nome": "Ragazzo Express",
+                "tipo": "fast_food"
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6371597,
+                    -23.5497313
+                ]
+            },
+            "properties": {
+                "nome": "Igreja São Francisco",
+                "tipo": "place_of_worship"
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6380706,
+                    -23.5490821
+                ]
+            },
+            "properties": {
+                "nome": "Centro Espírita Nosso Lar Casas André Luiz",
+                "tipo": "place_of_worship"
+            },
+            "id": 63
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6362913,
+                    -23.5462858
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "bank"
+            },
+            "id": 64
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6369818,
+                    -23.5470496
+                ]
+            },
+            "properties": {
+                "nome": "Delboni Auriemo",
+                "tipo": "clinic"
+            },
+            "id": 65
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6367118,
+                    -23.5471189
+                ]
+            },
+            "properties": {
+                "nome": "Ponto de Táxi 1783",
+                "tipo": "taxi"
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6356769,
+                    -23.5452405
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 67
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6358327,
+                    -23.5455213
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 68
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6360612,
+                    -23.5459287
+                ]
+            },
+            "properties": {
+                "nome": "Prolongamento",
+                "tipo": "taxi"
+            },
+            "id": 69
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6372857,
+                    -23.54743
+                ]
+            },
+            "properties": {
+                "nome": "Prefeitura Municipal de São Paulo",
+                "tipo": "townhall"
+            },
+            "id": 70
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341985,
+                    -23.5471213
+                ]
+            },
+            "properties": {
+                "nome": "Banco Safra",
+                "tipo": "bank"
+            },
+            "id": 71
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341853,
+                    -23.5472005
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 72
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341215,
+                    -23.5474538
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 73
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.634965,
+                    -23.5485983
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 74
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6347913,
+                    -23.5488286
+                ]
+            },
+            "properties": {
+                "nome": "Casa de Francisca",
+                "tipo": "nightclub"
+            },
+            "id": 75
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.636259,
+                    -23.5489106
+                ]
+            },
+            "properties": {
+                "nome": "Banco de Brasília",
+                "tipo": "bank"
+            },
+            "id": 76
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6351598,
+                    -23.5489575
+                ]
+            },
+            "properties": {
+                "nome": "Mantelli Farma",
+                "tipo": "pharmacy"
+            },
+            "id": 77
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6356705,
+                    -23.546254
+                ]
+            },
+            "properties": {
+                "nome": "Lanchonete Miguel Couto",
+                "tipo": "fast_food"
+            },
+            "id": 78
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6363489,
+                    -23.5473899
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 79
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6358776,
+                    -23.5473168
+                ]
+            },
+            "properties": {
+                "nome": "Central Kilo's Grill",
+                "tipo": "restaurant"
+            },
+            "id": 80
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6358014,
+                    -23.5471871
+                ]
+            },
+            "properties": {
+                "nome": "McDonald's",
+                "tipo": "fast_food"
+            },
+            "id": 81
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6343394,
+                    -23.5471357
+                ]
+            },
+            "properties": {
+                "nome": "Banco Santander",
+                "tipo": "bank"
+            },
+            "id": 82
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6343618,
+                    -23.5469603
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "bank"
+            },
+            "id": 83
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6354859,
+                    -23.5453773
+                ]
+            },
+            "properties": {
+                "nome": "Café Martinelli Midi",
+                "tipo": "cafe"
+            },
+            "id": 84
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341124,
+                    -23.5445218
+                ]
+            },
+            "properties": {
+                "nome": "Café Girondino",
+                "tipo": "cafe"
+            },
+            "id": 85
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6348258,
+                    -23.5463327
+                ]
+            },
+            "properties": {
+                "nome": "Caffe Latte",
+                "tipo": "cafe"
+            },
+            "id": 86
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341776,
+                    -23.546525
+                ]
+            },
+            "properties": {
+                "nome": "Droga Raia",
+                "tipo": "pharmacy"
+            },
+            "id": 87
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6334686,
+                    -23.5500267
+                ]
+            },
+            "properties": {
+                "nome": "Relógio",
+                "tipo": "clock"
+            },
+            "id": 88
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6347953,
+                    -23.5456346
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 89
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341986,
+                    -23.5487794
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 90
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6365289,
+                    -23.5472523
+                ]
+            },
+            "properties": {
+                "nome": "UBS República",
+                "tipo": "clinic"
+            },
+            "id": 91
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6351196,
+                    -23.5496801
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante Primeiro Mundo",
+                "tipo": "restaurant"
+            },
+            "id": 92
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341356,
+                    -23.5480448
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 93
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6339816,
+                    -23.5477994
+                ]
+            },
+            "properties": {
+                "nome": "Lanches Eminente",
+                "tipo": "fast_food"
+            },
+            "id": 94
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6345072,
+                    -23.5480189
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 95
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6345457,
+                    -23.5479012
+                ]
+            },
+            "properties": {
+                "nome": "Banco da Amazônia",
+                "tipo": "bank"
+            },
+            "id": 96
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6347221,
+                    -23.5478619
+                ]
+            },
+            "properties": {
+                "nome": "Tomates Verdes Fritos",
+                "tipo": "restaurant"
+            },
+            "id": 97
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6346256,
+                    -23.5481927
+                ]
+            },
+            "properties": {
+                "nome": "Subprefeitura da Sé",
+                "tipo": "townhall"
+            },
+            "id": 98
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6333969,
+                    -23.5461522
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 99
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6370206,
+                    -23.5491979
+                ]
+            },
+            "properties": {
+                "nome": "Largo São Francisco",
+                "tipo": "bicycle_rental"
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6320426,
+                    -23.5490833
+                ]
+            },
+            "properties": {
+                "nome": "Grão do Pátio",
+                "tipo": "cafe"
+            },
+            "id": 101
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6345894,
+                    -23.5453336
+                ]
+            },
+            "properties": {
+                "nome": "VirôVirô",
+                "tipo": "restaurant"
+            },
+            "id": 102
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6366651,
+                    -23.547406
+                ]
+            },
+            "properties": {
+                "nome": "Comida a pessoas carentes e de rua",
+                "tipo": "social_facility"
+            },
+            "id": 103
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.636896,
+                    -23.5476987
+                ]
+            },
+            "properties": {
+                "nome": "Comida a pessoas carentes e de rua",
+                "tipo": "social_facility"
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6341081,
+                    -23.5498381
+                ]
+            },
+            "properties": {
+                "nome": "Onofre",
+                "tipo": "pharmacy"
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6352867,
+                    -23.5499295
+                ]
+            },
+            "properties": {
+                "nome": "Western Union",
+                "tipo": "money_transfer"
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6351026,
+                    -23.5462647
+                ]
+            },
+            "properties": {
+                "nome": "MARIA MARIA RESTAURANTE",
+                "tipo": "restaurant"
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6364854,
+                    -23.5478446
+                ]
+            },
+            "properties": {
+                "nome": "gustavoajudas",
+                "tipo": "restaurant"
+            },
+            "id": 108
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.636612,
+                    -23.5477748
+                ]
+            },
+            "properties": {
+                "nome": "aaaa",
+                "tipo": "restaurant"
+            },
+            "id": 109
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6335791,
+                    -23.5464539
+                ]
+            },
+            "properties": {
+                "nome": "Bananas",
+                "tipo": "pub"
+            },
+            "id": 110
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6332844,
+                    -23.5446978
+                ]
+            },
+            "properties": {
+                "nome": "McDonald's",
+                "tipo": "fast_food"
+            },
+            "id": 111
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.633879,
+                    -23.5449223
+                ]
+            },
+            "properties": {
+                "nome": "Beneto Restaurante e Lanchonete",
+                "tipo": "fast_food"
+            },
+            "id": 112
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6338903,
+                    -23.5463354
+                ]
+            },
+            "properties": {
+                "nome": "Stock",
+                "tipo": "restaurant"
+            },
+            "id": 113
+        }
+    ]
+}
