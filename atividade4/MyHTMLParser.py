@@ -32,8 +32,6 @@ for url in listURLS:
     page = urllib.request.urlopen(url)
     parser = MyHTMLParser()
     parser.feed(str(page.read().decode('utf-8')))
-    print("Título:", parser.title)
-    print("Imagem:", parser.image)
     pages.append((parser.title,parser.image))
     
     with open("agregador.html", "w", encoding="utf-8") as file:
@@ -41,10 +39,10 @@ for url in listURLS:
         file.write("""<!DOCTYPE html>
         <html>
             <head>
-                <title>Lista de Alunos</title>
+                <title>Agregador de Alunos - EXA618</title>
             </head>
             <body>
-                <h1>Lista de Alunos</h1>
+                <h1>Agregado de páginas de alunos - EXA618 Atividade 4</h1>
             <ul>
         """)
 
@@ -53,7 +51,7 @@ for url in listURLS:
             file.write(f"""
             <li>
                 <h2>{title}</h2>
-                <img src="{image}" width="200">
+                <img src="{image}">
             </li>
             """)
 
