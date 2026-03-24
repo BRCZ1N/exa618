@@ -42,7 +42,7 @@ for url in listURLS:
     parser.feed(html)
     pages.append((parser.title, parser.image))
 
-with open("agregador.html", "w", encoding="utf-8") as file:
+with open("index.html", "w", encoding="utf-8") as file:
     file.write("""<!DOCTYPE html>
 <html>
 <head>
