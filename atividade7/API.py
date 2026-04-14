@@ -1,11 +1,17 @@
 from flask import Flask, request, jsonify
 from pymongo import MongoClient
 from datetime import datetime
+import os
+from dotenv import load_dotenv
+
+
+load_dotenv()
+
+mongo_uri = os.getenv("MONGO_URI")
 
 app = Flask(__name__)
 
-# 🔹 Conexão com MongoDB
-client = MongoClient("mongodb+srv://Vercel-Admin-atlas_mongo_db:3Yx3PrtwUQA4EFUZ@atlas-mongo-db.n5rdpwr.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient(MONGO_URI)
 db = client["blog"]
 collection = db["messages"]
 
@@ -30,7 +36,6 @@ def add_message():
     return jsonify({"status": "erro", "mensagem": "Dados inválidos"}), 400
 
 
-# ✅ 2) Listar todas as mensagens
 @app.route("/", methods=["GET"])
 def get_messages():
     mensagens = []
@@ -48,4 +53,4 @@ def get_messages():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
