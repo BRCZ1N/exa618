@@ -11,7 +11,7 @@ mongo_uri = os.getenv("MONGO_URI")
 
 app = Flask(__name__)
 
-client = MongoClient(MONGO_URI)
+client = MongoClient(mongo_uri)
 db = client["blog"]
 collection = db["messages"]
 
