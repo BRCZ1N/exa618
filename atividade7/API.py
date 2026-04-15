@@ -42,7 +42,6 @@ def get_messages():
 
     for msg in collection.find().sort("date", -1):
         mensagens.append({
-            "id": str(msg["_id"]),
             "action": msg["action"],
             "message": msg["message"],
             "author": msg["author"],
