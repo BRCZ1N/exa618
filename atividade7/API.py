@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from pymongo import MongoClient
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 from dotenv import load_dotenv
 
@@ -28,7 +28,7 @@ def add_message():
             "action": action,
             "message": message,
             "author": author,
-            "date": datetime.now()
+            "date": datetime.now(timezone.utc)
         })
 
         return jsonify({"status": "OK"}), 200
